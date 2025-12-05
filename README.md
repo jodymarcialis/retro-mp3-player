@@ -1,5 +1,8 @@
 # 🐍 retro-mp3-player
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 A python MP3 player software with a simple GUI
 A folder of tracks from the game Castlevania: Harmony of Dissonance was used in order to be sure it worked, but you can use you own, as long as you select it first.
 
